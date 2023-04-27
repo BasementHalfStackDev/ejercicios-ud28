@@ -1,7 +1,7 @@
 # Exercicses Unit 28
 Exercises Unit 28 Hosted in GitHub Pages
 
-To view the pages through Github Pages, cick [here](https://basementhalfstackdev.github.io/ejercicios-ud28/).
+To view the pages through Github Pages, go here (https://basementhalfstackdev.github.io/ejercicios-ud28/).
 
 To view Exercise 1, please click [here](./Exercise%201/index.html).
 
